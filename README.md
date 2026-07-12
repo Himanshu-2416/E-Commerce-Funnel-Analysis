@@ -7,7 +7,7 @@ Funnel Analysis A/B Testing Dashboard
 A data-driven Streamlit dashboard built to visualize and compare user behavior across different funnel stages for two test groups (A and B). The project is designed to help understand conversion patterns and evaluate the effectiveness of changes through statistical validation.
 
 Features
----------
+
 - Interactive A/B Funnel Analysis
   - Step-by-step funnel breakdown for Groups A & B
   - Conversion rate comparison
