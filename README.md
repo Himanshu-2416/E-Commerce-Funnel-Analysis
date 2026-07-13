@@ -1,7 +1,7 @@
 # Funnel-Analysis-and-A-B-Testing-
 Funnel Analysis and A/B Testing of an e-commerce platform using Streamlit
 🚀 **[Live App](https://e-commerce-funnel-analysis-ixmgymisinwaaazqusuwt8.streamlit.app/)**
----
+
 Funnel Analysis A/B Testing Dashboard
 
 A data-driven Streamlit dashboard built to visualize and compare user behavior across different funnel stages for two test groups (A and B). The project is designed to help understand conversion patterns and evaluate the effectiveness of changes through statistical validation.
