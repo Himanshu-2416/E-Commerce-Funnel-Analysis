@@ -192,8 +192,8 @@ with tab1:
                 marker={"color": device_colors.get(str(device), "#9467bd")}
             ))
 
-        st.plotly_chart(fig_device, use_container_width=True)
         fig_device.update_layout(title="Funnel by Device (Side-by-side)", margin=dict(l=60, r=60, t=50, b=40))
+        st.plotly_chart(fig_device, use_container_width=True)
 
 
     st.set_page_config(layout="wide")
