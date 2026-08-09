@@ -14,7 +14,7 @@ Features
   - Pie chart showing final confirmations from each group
 
 - Statistical Significance Test
-  - Validates difference in conversion rates using **Scipy's proportions_ztest**
+  - Validates difference in conversion rates using **Scipy's chi-square_test**
 
 - Visuals Powered By Plotly
   - Clean, responsive bar and pie charts
